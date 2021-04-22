@@ -4,4 +4,4 @@ Repositório de códigos do curso Análise Estatística para Ciência de Dados (
 **Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://github.com/hisamuka)
 
 ### Aulas
-1. [Manipulação de Dados](#)
+1. [Manipulação de Dados](https://github.com/xavecoding/IFSP-CMP-D1AED-2021.1/tree/main/manipulacao_de_dados)
