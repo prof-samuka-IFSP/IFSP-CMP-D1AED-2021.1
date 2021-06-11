@@ -10,5 +10,3 @@ Cada pasta/diretório possui um subdiretório `codigos_base` com os códigos bas
 2. [Limpeza e Pré-processamento de Dados](https://github.com/xavecoding/IFSP-CMP-D1AED-2021.1/blob/main/analise_exploratoria_de_dados/limpeza_e_preprocessamento_de_dados_googleplaystore.ipynb)
 3. [Análise Exploratória de Dados - Preços de Combustíveis no Brasil](https://github.com/xavecoding/IFSP-CMP-D1AED-2021.1/blob/main/analise_exploratoria_de_dados/analise_exploratoria_de_dados_precos_combustiveis.ipynb)
 4. [Análise Exploratória de Dados - Google Play Store](https://github.com/xavecoding/IFSP-CMP-D1AED-2021.1/blob/main/analise_exploratoria_de_dados/analise_exploratoria_de_dados_googleplaystore.ipynb)
-5. [Data Distributions](https://github.com/xavecoding/IFSP-CMP-D1AED-2021.1/tree/main/data_distributions)
-6. [Regressão Linear Simples](https://github.com/xavecoding/IFSP-CMP-D1AED-2021.1/blob/main/regressao_linear/regressao_linear_simples.ipynb)
