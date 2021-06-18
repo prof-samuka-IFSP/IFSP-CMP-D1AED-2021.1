@@ -12,3 +12,4 @@ Cada pasta/diretório possui um subdiretório `codigos_base` com os códigos bas
 4. [Análise Exploratória de Dados - Google Play Store](https://github.com/xavecoding/IFSP-CMP-D1AED-2021.1/blob/main/analise_exploratoria_de_dados/analise_exploratoria_de_dados_googleplaystore.ipynb)
 5. [Data Distributions](https://github.com/xavecoding/IFSP-CMP-D1AED-2021.1/tree/main/data_distributions)
 6. [Regressão Linear Simples](https://github.com/xavecoding/IFSP-CMP-D1AED-2021.1/blob/main/regressao_linear/regressao_linear_simples.ipynb)
+6. [Regressão Linear Múltipla](https://github.com/xavecoding/IFSP-CMP-D1AED-2021.1/blob/main/regressao_linear/regressao_linear_multipla.ipynb)
